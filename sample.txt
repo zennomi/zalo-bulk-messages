@@ -1,0 +1,3 @@
+Chào phụ huynh của em #{name}. Trung tâm VLSN xin nhận xét tình học tập của em: #{note}.
+Điểm bài kiểm tra tuần này của em là #{mark}.
+Cảm ơn anh/chị đã đọc tin nhắn.
